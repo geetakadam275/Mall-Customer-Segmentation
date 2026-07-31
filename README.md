@@ -149,4 +149,4 @@ Saved the clustered dataset for future analysis.
 
 **Geeta Kadam**
 
-GitHub: https://github.com/geetakadam275
+GitHub: https://github.com/geetakadam275/Mall-Customer-Segmentation
